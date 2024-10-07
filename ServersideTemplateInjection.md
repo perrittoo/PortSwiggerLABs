@@ -1,3 +1,8 @@
+---
+title: Server-side Template Injection
+
+---
+
 # Server-side Template Injection
 
 ## Lab 1: Basic server-side template injection
